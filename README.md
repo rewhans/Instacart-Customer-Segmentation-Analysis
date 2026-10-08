@@ -1,6 +1,6 @@
 # Instacart Customer Segmentation Analysis 🛒
 
-An exploratory data analysis of Instacart's 2022 grocery shopping dataset to uncover customer behavior patterns and inform targeted marketing strategies.
+An exploratory data analysis of Instacart's 2017 grocery shopping dataset to uncover customer behavior patterns and inform targeted marketing strategies.
 
 ---
 
